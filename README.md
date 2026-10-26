@@ -1,14 +1,15 @@
-#  Mohamed Aliou Diallo - Data Portfolio
+#  Mohamed Aliou Diallo 
+## Data Analyst | Data Scientist | Python Developer
 
 Welcome to my Data Portfolio.
 
 ## About Me
 
-I am a Data Analytics and Data Science graduate passionate about data analysis, machine learning, and business intelligence.
+I am a Data Analytics and Data Science graduate with experience in data analysis, machine learning, and business intelligence.
 
-I use Python, SQL, Power BI, and machine learning techniques to transform data into actionable insights and support decision-making.
+I use Python, SQL, Power BI, and machine learning techniques to transform data into meaningful insights and support data-driven decision making.
 
-Through this portfolio, I showcase projects that demonstrate my analytical, technical, and problem-solving skills.
+This portfolio showcases academic and personal projects that demonstrate my analytical, technical, and problem-solving skills
 
 ## Technical Skills
 
@@ -28,13 +29,54 @@ Through this portfolio, I showcase projects that demonstrate my analytical, tech
 ### Machine Learning
 - Scikit-Learn
 
+### Version Control
+- Git
+- GitHub
+
+## Tools
+
+- Python
+- SQL
+- Git
+- GitHub
+- Jupyter Notebook
+- Visual Studio Code
+- Power BI
+- Pandas
+- NumPy
+- Scikit-Learn
+
 ## Projects
 
 ### Wine Classification
-Machine learning project for wine classification.
+
+Objective:
+Classify wine varieties using machine learning algorithms.
+
+Tools:
+- Python
+- Pandas
+- Scikit-Learn
+
+Skills:
+- Data Cleaning
+- Feature Engineering
+- Model Evaluation
 
 ### Credit Risk Analysis
-Credit risk prediction and analysis project.
+
+Objective:
+Predict customer credit risk using historical financial data.
+
+Tools:
+- Python
+- Machine Learning
+- Pandas
+
+Skills:
+- Risk Analysis
+- Data Preparation
+- Predictive Modeling
 
 ### Future Projects
 - Sales Analysis
