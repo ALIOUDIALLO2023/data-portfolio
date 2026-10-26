@@ -4,13 +4,11 @@ Welcome to my Data Portfolio.
 
 ## About Me
 
-I am a Data Science student interested in:
+I am a Data Analytics and Data Science graduate passionate about data analysis, machine learning, and business intelligence.
 
-- Data Analysis
-- Machine Learning
-- Python
-- SQL
-- Business Intelligence
+I use Python, SQL, Power BI, and machine learning techniques to transform data into actionable insights and support decision-making.
+
+Through this portfolio, I showcase projects that demonstrate my analytical, technical, and problem-solving skills.
 
 ## Technical Skills
 
